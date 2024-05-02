@@ -15,4 +15,8 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+[![Youtubega Video qoydim xullas][(https://img.youtube.com/vi/YOUTUBE_VI...)](https://www.youtube.com/watch?v=YOUTU...)](https://youtu.be/s34PxSK7pho?si=Kxq_QkkSRl9RUgt6)
+
+
+
 
